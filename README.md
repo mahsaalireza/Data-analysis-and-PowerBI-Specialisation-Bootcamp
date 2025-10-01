@@ -26,3 +26,7 @@ Week 3: Python & A/B Testing + Business Reporting
 
 
 I will create individual repos for each portofolio project I will be making in the next 3 weeks!
+
+# The first milestone = > Learning Power BI 
+
+- working with powerBI desktop version to which I only have 6 months free access. 
